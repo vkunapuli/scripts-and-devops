@@ -1,0 +1,29 @@
+//Imports
+// ...
+
+buildscript {
+    repositories {
+       jcenter()
+    }
+    dependencies {
+       classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.6.2"
+    }
+}
+
+// plugins
+// project pluigins
+
+//ARTIFACTS
+group  = group name
+version = project.hasProperty('build_version') ? build_version : "1.x.x"
+sourceCompatibility = 1.x
+targetCompatibility = 1.x
+
+//Project settings
+//....
+
+/**
+ SonarQube configuration
+ **/
+ //
+apply from: 'sonarqube.gradle'
