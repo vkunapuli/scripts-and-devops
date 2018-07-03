@@ -1,1 +1,17 @@
+
+
 https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+
+Windows commands//To set your Path to patyh variable
+set PATH=%PATH%;C:\YourPath
+//to find network processes that use port 80
+netstat -aon|findstr 80
+To kill tak by process ID
+TASKKILL /F /PID 17996
+
+//NPM Config
+npm config set proxy URL //set the proxy
+
+//CURL put file at URL
+
+curl -u myUser:ABcdEF -X PUT "http://localhost:8081/artifactory/my-repository/my/new/artifact/directory/file.txt" -T Desktop/myNewFile
