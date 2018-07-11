@@ -1,6 +1,12 @@
 
 
 https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+http://www.competa.com/blog/proper-cache-busting-index-html-apache/
+https://www.digitalocean.com/community/tutorials/how-to-configure-content-caching-using-apache-modules-on-a-vps#an-introduction-to-caching-in-apache
+https://dzone.com/articles/testing-your-spring-app-for-thread-safety
+http://forum.spring.io/forum/spring-projects/data/41259-transactional-and-synchronized
+https://www.yegor256.com/2017/01/17/synchronized-decorators.html
+http://tutorials.jenkov.com/java-concurrency/index.html
 
 Windows commands//To set your Path to patyh variable
 set PATH=%PATH%;C:\YourPath
