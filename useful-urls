@@ -7,6 +7,7 @@ https://dzone.com/articles/testing-your-spring-app-for-thread-safety
 http://forum.spring.io/forum/spring-projects/data/41259-transactional-and-synchronized
 https://www.yegor256.com/2017/01/17/synchronized-decorators.html
 http://tutorials.jenkov.com/java-concurrency/index.html
+https://logback.qos.ch/manual/contextSelector.html
 
 Windows commands//To set your Path to patyh variable
 set PATH=%PATH%;C:\YourPath
